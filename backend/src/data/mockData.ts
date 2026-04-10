@@ -35,7 +35,7 @@ export const mockUsers = [
     password: bcrypt.hashSync('password123', 10),
     firstName: 'Demo',
     lastName: 'User',
-    avatar: 'https://i.pravatar.cc/150?img=17',
+    avatar: 'https://i.pravatar.cc/150?img=68',
     phone: '+1-555-0199',
     bio: 'Demo account for testing purposes.',
     isHost: true,
