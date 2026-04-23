@@ -1,7 +1,7 @@
 # Demo Credentials for Airbnb Clone
 
 ## Overview
-This document contains demo credentials for testing the Airbnb Clone application. All users use the same password for easy testing.
+This document contains demo credentials for testing the Airbnb Clone application. All users use the same password for testing.
 
 ---
 
